@@ -38,14 +38,14 @@ I build and run AWS infrastructure that's automated, observable, and cheap to op
 
 ### 🧰 Tech stack
 
-| | |
+| Area | Tools |
 |---|---|
-| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare" alt="AWS, GCP, Cloudflare" height="40"> + DigitalOcean |
-| **IaC & scripting** | <img src="https://skillicons.dev/icons?i=terraform,ansible,bash,py" alt="Terraform, Ansible, Bash, Python" height="40"> + Vagrant |
-| **Containers** | <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker, Kubernetes" height="40"> |
-| **CI/CD** | <img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="GitHub Actions, Jenkins" height="40"> |
-| **Observability** | <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40"> + Loki/Promtail |
-| **Linux** | <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat" alt="Linux, Ubuntu, Red Hat" height="40"> + CentOS |
+| **Cloud** | <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,digitalocean" alt="AWS, GCP, Cloudflare, DigitalOcean" height="40"> |
+| **IaC & scripting** | <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,ansible,vagrant,bash,py" alt="Terraform, Ansible, Vagrant, Bash, Python" height="40"> |
+| **Containers** | <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes" alt="Docker, Kubernetes" height="40"> |
+| **CI/CD** | <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,jenkins" alt="GitHub Actions, Jenkins" height="40"> |
+| **Observability** | <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="40"> + Loki/Promtail |
+| **Linux** | <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,redhat,centos" alt="Linux, Ubuntu, Red Hat, CentOS" height="40"> |
 
 ---
 
