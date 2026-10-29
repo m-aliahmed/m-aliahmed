@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="360" viewBox="0 0 840 360" role="img" aria-labelledby="t d">
+  <title id="t">Impact at a glance</title>
+  <desc id="d">80% less downtime, 25% lower cloud costs, 40% faster deployments, 50% faster incident recovery.</desc>
+  <style>
+    text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+    .num   { font-size: 64px; font-weight: 700; }
+    .label { font-size: 23px; font-weight: 600; fill: #f0f6fc; }
+    .how   { font-size: 17px; fill: #9da7b3; }
+  </style>
+
+  <g>
+    <rect x="0" y="0" width="410" height="170" rx="16" fill="#161b22" stroke="#30363d"/>
+    <rect x="0" y="24" width="5" height="122" rx="2.5" fill="#3fb950"/>
+    <text x="32" y="84" class="num" fill="#3fb950">80%</text>
+    <text x="32" y="118" class="label">less downtime</text>
+    <text x="32" y="146" class="how">Highly available AWS architecture</text>
+  </g>
+  <g transform="translate(430 0)">
+    <rect x="0" y="0" width="410" height="170" rx="16" fill="#161b22" stroke="#30363d"/>
+    <rect x="0" y="24" width="5" height="122" rx="2.5" fill="#ff9900"/>
+    <text x="32" y="84" class="num" fill="#ff9900">25%</text>
+    <text x="32" y="118" class="label">lower cloud costs</text>
+    <text x="32" y="146" class="how">Predictive scaling &amp; rightsizing</text>
+  </g>
+  <g transform="translate(0 190)">
+    <rect x="0" y="0" width="410" height="170" rx="16" fill="#161b22" stroke="#30363d"/>
+    <rect x="0" y="24" width="5" height="122" rx="2.5" fill="#58a6ff"/>
+    <text x="32" y="84" class="num" fill="#58a6ff">40%</text>
+    <text x="32" y="118" class="label">faster deployments</text>
+    <text x="32" y="146" class="how">Fully automated CI/CD pipelines</text>
+  </g>
+  <g transform="translate(430 190)">
+    <rect x="0" y="0" width="410" height="170" rx="16" fill="#161b22" stroke="#30363d"/>
+    <rect x="0" y="24" width="5" height="122" rx="2.5" fill="#d2a8ff"/>
+    <text x="32" y="84" class="num" fill="#d2a8ff">50%</text>
+    <text x="32" y="118" class="label">faster incident recovery</text>
+    <text x="32" y="146" class="how">Prometheus &amp; Grafana monitoring</text>
+  </g>
+</svg>
