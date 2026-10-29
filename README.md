@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://aliahmed-devops.vercel.app/"><img src="https://img.shields.io/badge/Website-aliahmed--devops.vercel.app-FF9900?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://medium.com/@muhammadaliahmed_62382"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="mailto:m.aliahmed0101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://x.com/its_alihmed"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://aliahmed-devops.vercel.app/"><img src="assets/btn-website.svg" alt="Website" height="44"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;
+  <a href="https://medium.com/@muhammadaliahmed_62382"><img src="assets/btn-medium.svg" alt="Medium" height="44"></a>&nbsp;
+  <a href="mailto:m.aliahmed0101@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44"></a>&nbsp;
+  <a href="https://x.com/its_alihmed"><img src="assets/btn-x.svg" alt="X" height="44"></a>
 </p>
 
 ## 👋 About me
