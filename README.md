@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aliahmed-devops.vercel.app/"><img src="https://img.shields.io/badge/Website-aliahmed--devops.vercel.app-FF9900?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/muhammad-ali-ahmed-devops"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://medium.com/@muhammadaliahmed_62382"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="mailto:m.aliahmed0101@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -41,7 +42,7 @@ Beyond the numbers:
 | ☁️ **Cloud** | Design scalable, highly available infrastructure | <img src="https://go-skill-icons.vercel.app/api/icons?i=aws,gcp,cloudflare,digitalocean" alt="AWS, GCP, Cloudflare, DigitalOcean" height="36"> |
 | 🏗️ **Infrastructure as Code** | Define servers and networks in code so environments are repeatable | <img src="https://go-skill-icons.vercel.app/api/icons?i=terraform,ansible,vagrant,bash,py" alt="Terraform, Ansible, Vagrant, Bash, Python" height="36"> |
 | 📦 **Containers** | Package and orchestrate apps to run the same everywhere | <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes" alt="Docker, Kubernetes" height="36"> |
-| 🔁 **CI/CD** | Automate testing and zero-downtime deployments | <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,jenkins" alt="GitHub Actions, Jenkins" height="36"> |
+| 🔁 **CI/CD** | Automate testing and zero-downtime deployments | <img src="assets/githubactions.svg" alt="GitHub Actions" height="36"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" alt="Jenkins" height="36"> |
 | 📈 **Observability** | Metrics, dashboards, logs and alerts for fast incident response | <img src="https://go-skill-icons.vercel.app/api/icons?i=prometheus,grafana" alt="Prometheus, Grafana" height="36"> <img src="assets/loki.svg" alt="Loki / Promtail" height="36"> |
 | 🐧 **Linux** | Administer and harden production servers | <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,redhat,centos" alt="Linux, Ubuntu, Red Hat, CentOS" height="36"> |
 
@@ -60,6 +61,6 @@ A hands-on DevSecOps lab: deploy a deliberately vulnerable web app, attack it, a
 ## 📫 Let's connect
 
 💬 Ask me about **Terraform, Ansible, container orchestration, or disaster recovery**. I'm always happy to talk shop.
-Reach me at **[m.aliahmed0101@gmail.com](mailto:m.aliahmed0101@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-ahmed-devops).
+Reach me at **[m.aliahmed0101@gmail.com](mailto:m.aliahmed0101@gmail.com)**, on [LinkedIn](https://www.linkedin.com/in/muhammad-ali-ahmed-devops), or through my website **[aliahmed-devops.vercel.app](https://aliahmed-devops.vercel.app/)**.
 
 <p align="center"><i>Happy DevOps! 🚀</i></p>
